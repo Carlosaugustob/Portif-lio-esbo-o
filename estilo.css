@@ -1,0 +1,18 @@
+
+    .formato {
+        font-size: bold ;
+        font-family: 'Times New Roman', Times, serif;
+        background: blue;
+        border: "100%" ;
+    }
+
+    #bordas {
+        border-color: yellow;
+        border-width: 15px 15px 15px 15px;
+        border-style: inset ;
+    }
+    
+    #somos {
+        background-color: chartreuse;
+    }
+
